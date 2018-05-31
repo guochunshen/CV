@@ -11,5 +11,5 @@ install_github("cv", "guochunshen")
 
 ```
 
-once installed, you can use the __cv__ function.
+once installed, you can use the __cv__ function and its help file via __?cv__.
 
