@@ -7,7 +7,7 @@ if(!require(devtools)){
   install.packages("devtools")
   require(devtools)
 }
-install_github("cv", "guochunshen")
+install_github("guochunshen/cv")
 
 ```
 
